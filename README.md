@@ -188,7 +188,7 @@ Fhenix is live on the following testnets: **Base**, **Arbitrum**, and **Ethereum
 
 ## 📋 Changelog
 
-### 2025-01
+### 2026-01
 - Added Neo FHE AI Assistant to Developer Tools
 - Added Private Liquidity Tracker tutorial
 - Added Design Partners & Case Studies section
